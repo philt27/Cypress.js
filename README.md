@@ -20,4 +20,4 @@
 
   *Все новые тесты нужно писать в папке cypress/e2e. Нужно создать внутри e2e файл: название.cy.js
 
-![image](https://github.com/philt27/Cypress.js/assets/124879514/bea08ef7-f382-4e11-ba24-8d25af60dde0)
+![image](https://github.com/philt27/Cypress.js/assets/124879514/52bd65aa-af80-4ffe-80a2-7de3880c6105)
