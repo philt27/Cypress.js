@@ -1,4 +1,8 @@
-# Автотесты JS Cypress
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автотесты+JS+Cypress)
+
+```
+В этом репозитории  несколько автотестов JS Cypress
+```
 
 - Автотесты для формы логина и пароля на Login.QA.Studio [https://login.qa.studio/]
 
@@ -22,4 +26,9 @@
 
 
 ![image](https://github.com/philt27/Cypress.js/assets/124879514/07811239-3af3-43ab-8ac5-a877994b4b40)
+
+<p align="center">
+  <img src="https://github.com/philt27/philt27.github.io/assets/124879514/566ac4f7-ea32-4068-81d9-012003c1df07" alt="Sublime's custom image"/>
+</p>
+
 
