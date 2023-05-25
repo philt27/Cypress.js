@@ -25,11 +25,13 @@
   *Все новые тесты нужно писать в папке cypress/e2e. Нужно создать внутри e2e файл: название.cy.js
 
 
-![image](https://github.com/philt27/Cypress.js/assets/124879514/07811239-3af3-43ab-8ac5-a877994b4b40)
-
 <p align="center">
   <img src="https://github.com/philt27/philt27.github.io/assets/124879514/566ac4f7-ea32-4068-81d9-012003c1df07" alt="Sublime's custom image"/>
 </p>
 
 
-![73390b50-9b50-11ec-8de9-ad9d193bc0ef](https://github.com/philt27/Cypress.js/assets/124879514/8ed8c628-2352-4814-aa9a-c645444f9408)
+
+<p align="center">
+  <img src="https://github.com/philt27/Cypress.js/assets/124879514/8ed8c628-2352-4814-aa9a-c645444f9408" alt="Sublime's custom image"/>
+</p>
+
