@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/philt27/Cypress.js/assets/124879514/438c99a8-a6d5-4625-85ef-5d5097e9bfc7" alt="Sublime's custom image"/>
+  <img src="https://github.com/philt27/Cypress.js/assets/124879514/f61e5815-7011-437f-b875-f1480ed5ea70" alt="Sublime's custom image"/>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автотесты+JS+Cypress)
@@ -39,5 +39,3 @@ npx cypress open
 <p align="center">
   <img src="https://github.com/philt27/philt27.github.io/assets/124879514/566ac4f7-ea32-4068-81d9-012003c1df07" alt="Sublime's custom image"/>
 </p>
-![су](https://github.com/philt27/Cypress.js/assets/124879514/f61e5815-7011-437f-b875-f1480ed5ea70)
-
