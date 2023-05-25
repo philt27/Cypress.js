@@ -35,3 +35,5 @@
   <img src="https://github.com/philt27/Cypress.js/assets/124879514/8ed8c628-2352-4814-aa9a-c645444f9408" alt="Sublime's custom image"/>
 </p>
 
+
+![су](https://github.com/philt27/Cypress.js/assets/124879514/438c99a8-a6d5-4625-85ef-5d5097e9bfc7)
