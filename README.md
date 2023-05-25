@@ -39,3 +39,5 @@ npx cypress open
 <p align="center">
   <img src="https://github.com/philt27/philt27.github.io/assets/124879514/566ac4f7-ea32-4068-81d9-012003c1df07" alt="Sublime's custom image"/>
 </p>
+![су](https://github.com/philt27/Cypress.js/assets/124879514/f61e5815-7011-437f-b875-f1480ed5ea70)
+
