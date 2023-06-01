@@ -16,7 +16,7 @@
 
 1) Установить node.js [https://nodejs.org/en/download/]
 
-2) Скачай себе проект из  ``` GitHub ```: кнопка [Code] --> Download ZIP и открыть в IDE
+2) Скачать себе проект из  ``` GitHub ```: кнопка [Code] --> Download ZIP и открыть в IDE
 
 3) В терминале перейти в папку с проектом и запустить установку ``` Cypress ```:
 ``` 
