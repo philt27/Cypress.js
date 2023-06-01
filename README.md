@@ -2,16 +2,15 @@
   <img src="https://github.com/philt27/Cypress.js/assets/124879514/f61e5815-7011-437f-b875-f1480ed5ea70" alt="Sublime's custom image"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автотесты+JS+Cypress)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Автотест+Cypress+JS)
 
 
 ```
-В этом репозитории несколько автотестов на JS Cypress
+В этом репозитории пример автотеста на Cypress JS 
 ```
 
-- Автотесты для формы логина и пароля на Login.QA.Studio [https://login.qa.studio/]
+- Автотест добавления двух товаров в Сравнение [https://trial-sport.ru]
 
-- Один автотест оформления заказа для сайта HuntingPony [https://huntingpony.com/]
 
 Для настройки ``` Cypress 12.7 ``` необходимо:
 
